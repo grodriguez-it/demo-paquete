@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/grodriguez-it/demo-paquete/issues"
   },
-  "homepage": "https://github.com/grodriguez-it/demo-paquete#readme"
+  "homepage": "https://github.com/grodriguez-it/demo-paquete#readme",
+  "dependencies": {
+    "@grodriguez-it/paquete-estadistica": "^1.0.1",
+    "express": "^5.1.0"
+  }
 }
